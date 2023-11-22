@@ -2,8 +2,7 @@
 <h3 align="left">노력과 끈기를 가진 개발자</h3>
 
 - 📫 Email **inguk023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
