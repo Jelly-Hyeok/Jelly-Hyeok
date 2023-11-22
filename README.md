@@ -1,9 +1,8 @@
 <h1 align="left">개발자를 꿈꾸는 장재혁입니다.</h1>
 <h3 align="left">노력과 끈기를 가진 개발자</h3>
 
-- 📫 Email **inguk023@gmail.com**
-- 
-<p align="left">
+- 📫 Email : **inguk023@gmail.com**
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
