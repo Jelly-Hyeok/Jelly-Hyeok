@@ -1,7 +1,7 @@
 <h1 align="left">개발자를 꿈꾸는 장재혁입니다.</h1>
 
 - 📫 Email : **inguk023@gmail.com**
-- 📱 PhoneNumber : **010-3174-0239**
+- 📱 Phone : **010-3174-0239**
 
 
 <h3 align="left">Languages and Tools:</h3>
